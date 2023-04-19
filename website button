@@ -244,11 +244,11 @@
 
 <body>
 
-  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-regular fa-star"></i> My Button</button>
+  <button class="btn large my-color rounded threeD" type="button" onclick="navigate()"> <i class="fa-regular fa-star"></i> Go To Site </button>
   
   <script>
     function navigate() {
-      window.open("https://example.com", '_blank').focus();
+      window.open("https://chicomolino.com", '_blank').focus();
     }
   </script>
 
